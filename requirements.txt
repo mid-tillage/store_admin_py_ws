@@ -1,0 +1,5 @@
+Django==3.2.8
+python-dotenv==1.0.1
+drf_yasg==1.21.7
+psycopg2-binary==2.9.9
+requests==2.31.0
