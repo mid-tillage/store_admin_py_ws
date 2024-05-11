@@ -12,7 +12,7 @@
 
 ## Description
 
-Store's Admin Web Service example using [Nest](https://github.com/nestjs/nest) framework.
+Store's Admin Web Service example using [Django](https://www.djangoproject.com/) framework.
 
 ## Installation
 
